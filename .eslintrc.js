@@ -54,7 +54,7 @@ module.exports = exports = {
         "wrap-iife": [ ERROR, "outside" ],
         "yoda": ERROR,
         "no-shadow-restricted-names": ERROR,
-        "no-shadow": WARN,
+        "no-shadow": OFF,
         "no-undef-init": OFF,
         "no-undef": OFF,
         "no-undefined": OFF,
